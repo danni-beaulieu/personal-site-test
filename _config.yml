@@ -1,0 +1,3 @@
+domain: danni-beaulieu.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://danni-beaulieu.github.io  # the base hostname and protocol for your site, e.g. http://example.com  
+remote_theme: pages-themes/minimal@v0.2.0
